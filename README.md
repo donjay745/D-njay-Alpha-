@@ -1,4 +1,4 @@
-# D-njay-Alpha-
+# Donjay-Alpha-
 A musical website where every enquiry about the artist can be made
 <!DOCTYPE html>
 <html lang="en">
